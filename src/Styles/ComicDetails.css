@@ -1,0 +1,19 @@
+button {
+    position: relative;
+    border: none !important;
+    color: #ffffff;
+    width: 9em;
+    height: 3em;
+    line-height: 2em;
+    text-align: center;
+    background: linear-gradient(180deg, #03a9f4, #ffeb3b);
+    background-size: 500%;
+    border-radius: 30px !important;
+    text-transform: uppercase;
+    cursor: pointer !important;
+    z-index: 1;
+}
+
+button:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}

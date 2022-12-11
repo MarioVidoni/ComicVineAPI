@@ -1,0 +1,18 @@
+img {
+    height: 600px;
+    width: auto;
+    max-width:500px;
+ }
+
+.space {
+    margin-top: 25px;
+}
+  
+  body {
+    background: rgb(42, 14, 57);
+    background: linear-gradient(
+      90deg,
+      rgba(42, 14, 57, 1) 7%,
+      rgba(164, 11, 12, 1) 73%,
+    );
+  }
